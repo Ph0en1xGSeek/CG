@@ -1,0 +1,19 @@
+﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(392,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (cube_map.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  复制了 0 个文件
+  robot.cpp
+c:\users\ph0en1x\desktop\openglscene3\cube_map\robot.cpp(339): warning C4305: “参数”: 从“double”到“GLfloat”截断
+c:\users\ph0en1x\desktop\openglscene3\cube_map\robot.cpp(340): warning C4305: “参数”: 从“double”到“GLfloat”截断
+c:\users\ph0en1x\desktop\openglscene3\cube_map\robot.cpp(343): warning C4305: “参数”: 从“double”到“GLfloat”截断
+c:\users\ph0en1x\desktop\openglscene3\cube_map\robot.cpp(344): warning C4305: “参数”: 从“double”到“GLfloat”截断
+c:\users\ph0en1x\desktop\openglscene3\cube_map\robot.cpp(351): warning C4305: “参数”: 从“double”到“GLfloat”截断
+c:\users\ph0en1x\desktop\openglscene3\cube_map\robot.cpp(352): warning C4305: “参数”: 从“double”到“GLfloat”截断
+c:\users\ph0en1x\desktop\openglscene3\cube_map\robot.cpp(355): warning C4305: “参数”: 从“double”到“GLfloat”截断
+c:\users\ph0en1x\desktop\openglscene3\cube_map\robot.cpp(356): warning C4305: “参数”: 从“double”到“GLfloat”截断
+c:\users\ph0en1x\desktop\openglscene3\cube_map\robot.cpp(364): warning C4305: “参数”: 从“double”到“GLfloat”截断
+c:\users\ph0en1x\desktop\openglscene3\cube_map\robot.cpp(366): warning C4305: “参数”: 从“double”到“GLfloat”截断
+c:\users\ph0en1x\desktop\openglscene3\cube_map\robot.cpp(377): warning C4305: “参数”: 从“double”到“GLfloat”截断
+c:\users\ph0en1x\desktop\openglscene3\cube_map\robot.cpp(378): warning C4305: “参数”: 从“double”到“GLfloat”截断
+c:\users\ph0en1x\desktop\openglscene3\cube_map\robot.cpp(383): warning C4305: “参数”: 从“double”到“GLfloat”截断
+c:\users\ph0en1x\desktop\openglscene3\cube_map\robot.cpp(384): warning C4305: “参数”: 从“double”到“GLfloat”截断
+c:\users\ph0en1x\desktop\openglscene3\cube_map\robot.cpp(397): warning C4305: “+=”: 从“double”到“float”截断
+  cube_map.vcxproj -> C:\Users\Ph0en1x\Desktop\OpenGLScene3\Debug\OpenGLScene.exe
